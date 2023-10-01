@@ -1,0 +1,40 @@
+button:hover {
+  background-color: #56f248 !important;
+}
+
+.flex-box {
+  justify-content: center;
+  display: flex;
+}
+
+button {
+  color: #000000 !important;
+  border-color: #957dad !important;
+  margin: 10px;
+  margin-bottom: 25px;
+}
+
+.side {
+  margin-left: 0;
+}
+
+section {
+  padding-top: 0;
+  height: 100vh;
+  padding: 5%;
+}
+
+h1 {
+  color: hsl(43, 100%, 50%);
+  padding-top: 40px;
+  text-align: center;
+  font-family: 'Comic Sans MS', sans-serif;
+  padding-bottom: 40px;
+}
+
+textarea {
+  border-style: dotted;
+  padding: 3%;
+  border-color: #fc041d;
+  border-width: 5px;
+}
